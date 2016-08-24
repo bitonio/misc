@@ -8,8 +8,8 @@ Work in progress
 
 ## To Do list
 
-+ [Tosca Cafe](http://toscacafesf.com/),
-  242 Columbus Ave. San Francisco CA 94133
++ [Tosca Cafe](http://toscacafesf.com/)
+  *242 Columbus Ave. San Francisco CA 94133*
   * Sibling company of Fort Point Brewery, they pair the food with their beers
 + [The Cheeseboard Pizza](http://cheeseboardcollective.coop)
   *1512 Shattuck Ave, Berkeley, CA 94709*
@@ -57,6 +57,10 @@ Work in progress
   * and cheeses
   * and pastries
   * I love them
++ Middle East Market
+  *2054 San Pablo Ave, Berkeley, CA 94702*
+  * choice of fleur d'oranger
+  * mint/lemon teas
 
 ### Restaurants, eateries
 
