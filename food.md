@@ -43,7 +43,6 @@ Work in progress
   * Drinks okay, food generous but very average
     (thanks Michael M.)
 
-
 ---
 
 ## East Bay
@@ -52,12 +51,13 @@ Work in progress
 
 + Artis Coffee, watch the live air roasting
 + Acme bread, originally from Berkeley but distributed all over the bay area
-+ Pasta Shop, 4th street Berkeley, CA (and Rockridge)
++ [Market Hall Foods](http://rockridgemarkethall.com/market-hall-foods) (formerly Pasta Shop)
+  *4th street Berkeley, CA (and Rockridge)*
   * Large selection of tea (Marriage Freres)
   * and cheeses
   * and pastries
   * I love them
-+ Middle East Market
++ [Middle East Market](http://www.memarketberkeley.com)
   *2054 San Pablo Ave, Berkeley, CA 94702*
   * choice of fleur d'oranger
   * mint/lemon teas
