@@ -14,6 +14,10 @@ Work in progress
 + [The Cheeseboard Pizza](http://cheeseboardcollective.coop)
   *1512 Shattuck Ave, Berkeley, CA 94709*
   * Always a long line waiting, that _must_ be excellent
++ [Morell’s Bread](www.morellsbread.com)
+  *2701 8th St. #114 Berkeley, CA 94710*
++ [Bartavelle Cafe](http://www.bartavellecafe.com/)
+  *1603 San Pablo Ave, Berkeley, CA, 94702*
 
 ## San Francisco
 
@@ -64,7 +68,15 @@ Work in progress
 
 ### Restaurants, eateries
 
-+ Chez Panisse,
++ [Bette's Oceanview Diner](http://www.bettesdiner.com/)
+  *1807 Fourth St, Berkeley, CA 94710*
+  * Very good diner, far better than chains
+  * Close early, restaurant often crowded consider take away store next door
++ [Brittany Crêpes](http://brittanycrepes.com/)
+  *913 University Ave, Berkeley, CA 94710*
+  * Friendly owners, running business years
+  * Genuine flour imported from French Brittany
++ Chez Panisse
   *1517 Shattuck Ave, Berkeley, CA 94709*
   * Reservation recommended
 + The Butcher Son, Berkeley, CA
