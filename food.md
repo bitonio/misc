@@ -90,6 +90,7 @@ Work in progress
   *1479 Solano Ave, Albany, CA 94706*
   * The place to get a good bulgogi
   * Try their $2 ice cream on your way out
+
 ---
 
 ## South Bay
