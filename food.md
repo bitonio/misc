@@ -65,6 +65,10 @@ Work in progress
   *2054 San Pablo Ave, Berkeley, CA 94702*
   * choice of fleur d'oranger
   * mint/lemon teas
++ [La Noisette Sweets](http://www.lanoisettesweets.com/)
+  *2701 8th St, Suite 116 Berkeley, CA 94710*
+  * Only on Wednesdays
+  * Alain is cooking some delicious pastries, sweet and salty
 
 ### Restaurants, eateries
 
