@@ -115,10 +115,10 @@ Work in progress
   * Their frozen croissants are better than many French bakeries!
 
 and some other referenced in:
-http://www.digitaladventures.fr/2015/06/french-gourmetreal-food-in-the-silicon-valley/
+https://www.bitonio.us/en/french-gourmetreal-food-in-the-silicon-valley/ (in English)
 
 ---
 
 ## Paris, France area
 
-See http://www.digitaladventures.fr/a-propos/mes-adresses-de-restaurants-en-region-parisienne/
+https://www.bitonio.us/fr/a-propos/mes-adresses-de-restaurants-en-region-parisienne/ (in French)
